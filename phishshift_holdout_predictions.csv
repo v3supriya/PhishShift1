@@ -1,0 +1,145 @@
+message_id,channel,body_text,label,campaign_group,Rules baseline,TF-IDF + Logistic Regression,TF-IDF + Multinomial Naive Bayes
+MSG0101,sms,A service update: A payment could not be completed. Re-enter billing details to restore the service.,1,billing-fix,0,1,1
+MSG0102,sms,A payment could not be completed. Re-enter billing details to restore the service. Please do this as soon as practical.,1,billing-fix,0,1,1
+MSG0103,sms,A payment could not be completed. Re-enter billing details to restore the service. This notice was generated automatically!,1,billing-fix,0,1,1
+MSG0104,sms,Act soon: A payment could not be completed. Re-enter billing details to restore the service. You can review it during normal business hours …,1,billing-fix,0,1,1
+MSG0105,sms,"A payment could not be completed. Re-enter billing details to restore the service. If unsure, use a known official contact channel.",1,billing-fix,0,1,1
+MSG0106,sms,A payment could not be completed. Re-enter billing details to restore the service.,1,billing-fix,0,1,1
+MSG0107,sms,Quick notice: A payment could not be completed. Re-enter billing details to restore the service. Please do this as soon as practical!,1,billing-fix,0,1,1
+MSG0108,sms,A payment could not be completed. Re-enter billing details to restore the service. This notice was generated automatically …,1,billing-fix,0,1,1
+MSG0109,sms,A payment could not be completed. Re-enter billing details to restore the service. You can review it during normal business hours.,1,billing-fix,0,1,1
+MSG0110,sms,"Important account notice: A payment could not be completed. Re-enter billing details to restore the service. If unsure, use a known official contact channel.",1,billing-fix,0,1,1
+MSG0111,sms,A payment could not be completed. Re-enter billing details to restore the service!,1,billing-fix,0,1,1
+MSG0112,sms,A payment could not be completed. Re-enter billing details to restore the service. Please do this as soon as practical …,1,billing-fix,0,1,1
+MSG0113,sms,Action is needed: A payment could not be completed. Re-enter billing details to restore the service. This notice was generated automatically.,1,billing-fix,0,1,1
+MSG0115,sms,"A payment could not be completed. Re-enter billing details to restore the service. If unsure, use a known official contact channel!",1,billing-fix,0,1,1
+MSG0116,sms,"For continued access, A payment could not be completed. Re-enter billing details to restore the service …",1,billing-fix,0,1,1
+MSG0118,sms,A payment could not be completed. Re-enter billing details to restore the service. This notice was generated automatically.,1,billing-fix,0,1,1
+MSG0119,sms,"To avoid interruption, A payment could not be completed. Re-enter billing details to restore the service. You can review it during normal business hours!",1,billing-fix,0,1,1
+MSG0120,sms,"A payment could not be completed. Re-enter billing details to restore the service. If unsure, use a known official contact channel …",1,billing-fix,0,1,1
+MSG0141,email,"To avoid interruption, A secure message is waiting. Authenticate to view the protected content. This notice was generated automatically.",1,secure-view,0,1,1
+MSG0142,email,A secure message is waiting. Authenticate to view the protected content. You can review it during normal business hours.,1,secure-view,0,1,1
+MSG0143,email,"A secure message is waiting. Authenticate to view the protected content. If unsure, use a known official contact channel!",1,secure-view,0,1,1
+MSG0144,email,Please note — A secure message is waiting. Authenticate to view the protected content …,1,secure-view,0,1,1
+MSG0145,email,A secure message is waiting. Authenticate to view the protected content. Please do this as soon as practical.,1,secure-view,0,1,1
+MSG0146,email,A secure message is waiting. Authenticate to view the protected content. This notice was generated automatically.,1,secure-view,0,1,1
+MSG0147,email,A service update: A secure message is waiting. Authenticate to view the protected content. You can review it during normal business hours!,1,secure-view,0,1,1
+MSG0148,email,"A secure message is waiting. Authenticate to view the protected content. If unsure, use a known official contact channel …",1,secure-view,0,1,1
+MSG0149,email,A secure message is waiting. Authenticate to view the protected content.,1,secure-view,0,1,1
+MSG0150,email,Act soon: A secure message is waiting. Authenticate to view the protected content. Please do this as soon as practical.,1,secure-view,0,1,1
+MSG0151,email,A secure message is waiting. Authenticate to view the protected content. This notice was generated automatically!,1,secure-view,0,1,1
+MSG0152,email,A secure message is waiting. Authenticate to view the protected content. You can review it during normal business hours …,1,secure-view,0,1,1
+MSG0153,email,"Quick notice: A secure message is waiting. Authenticate to view the protected content. If unsure, use a known official contact channel.",1,secure-view,0,1,1
+MSG0155,email,A secure message is waiting. Authenticate to view the protected content. Please do this as soon as practical!,1,secure-view,0,1,1
+MSG0156,email,Important account notice: A secure message is waiting. Authenticate to view the protected content. This notice was generated automatically …,1,secure-view,0,1,1
+MSG0158,email,"A secure message is waiting. Authenticate to view the protected content. If unsure, use a known official contact channel.",1,secure-view,0,1,1
+MSG0159,email,Action is needed: A secure message is waiting. Authenticate to view the protected content!,1,secure-view,0,1,1
+MSG0160,email,A secure message is waiting. Authenticate to view the protected content. Please do this as soon as practical …,1,secure-view,0,1,1
+MSG0161,sms,Act soon: Your subscription is on hold. Update the payment method to continue uninterrupted access. You can review it during normal business hours.,1,payment-hold,0,1,1
+MSG0162,sms,"Your subscription is on hold. Update the payment method to continue uninterrupted access. If unsure, use a known official contact channel.",1,payment-hold,0,1,1
+MSG0163,sms,Your subscription is on hold. Update the payment method to continue uninterrupted access!,1,payment-hold,0,1,1
+MSG0164,sms,Quick notice: Your subscription is on hold. Update the payment method to continue uninterrupted access. Please do this as soon as practical …,1,payment-hold,0,1,1
+MSG0165,sms,Your subscription is on hold. Update the payment method to continue uninterrupted access. This notice was generated automatically.,1,payment-hold,0,1,1
+MSG0166,sms,Your subscription is on hold. Update the payment method to continue uninterrupted access. You can review it during normal business hours.,1,payment-hold,0,1,1
+MSG0167,sms,"Important account notice: Your subscription is on hold. Update the payment method to continue uninterrupted access. If unsure, use a known official contact channel!",1,payment-hold,0,1,1
+MSG0168,sms,Your subscription is on hold. Update the payment method to continue uninterrupted access …,1,payment-hold,0,1,1
+MSG0169,sms,Your subscription is on hold. Update the payment method to continue uninterrupted access. Please do this as soon as practical.,1,payment-hold,0,1,1
+MSG0170,sms,Action is needed: Your subscription is on hold. Update the payment method to continue uninterrupted access. This notice was generated automatically.,1,payment-hold,0,1,1
+MSG0171,sms,Your subscription is on hold. Update the payment method to continue uninterrupted access. You can review it during normal business hours!,1,payment-hold,0,1,1
+MSG0172,sms,"Your subscription is on hold. Update the payment method to continue uninterrupted access. If unsure, use a known official contact channel …",1,payment-hold,0,1,1
+MSG0173,sms,"For continued access, Your subscription is on hold. Update the payment method to continue uninterrupted access.",1,payment-hold,0,1,1
+MSG0175,sms,Your subscription is on hold. Update the payment method to continue uninterrupted access. This notice was generated automatically!,1,payment-hold,0,1,1
+MSG0176,sms,"To avoid interruption, Your subscription is on hold. Update the payment method to continue uninterrupted access. You can review it during normal business hours …",1,payment-hold,0,1,1
+MSG0178,sms,Your subscription is on hold. Update the payment method to continue uninterrupted access.,1,payment-hold,0,1,1
+MSG0179,sms,Please note — Your subscription is on hold. Update the payment method to continue uninterrupted access. Please do this as soon as practical!,1,payment-hold,0,1,1
+MSG0180,sms,Your subscription is on hold. Update the payment method to continue uninterrupted access. This notice was generated automatically …,1,payment-hold,0,1,1
+MSG0181,email,"Action is needed: We could not verify the recent request. Review the account now to prevent a service pause. If unsure, use a known official contact channel.",1,service-pause,0,1,1
+MSG0182,email,We could not verify the recent request. Review the account now to prevent a service pause.,1,service-pause,0,1,1
+MSG0183,email,We could not verify the recent request. Review the account now to prevent a service pause. Please do this as soon as practical!,1,service-pause,0,1,1
+MSG0184,email,"For continued access, We could not verify the recent request. Review the account now to prevent a service pause. This notice was generated automatically …",1,service-pause,0,1,1
+MSG0185,email,We could not verify the recent request. Review the account now to prevent a service pause. You can review it during normal business hours.,1,service-pause,0,1,1
+MSG0186,email,"We could not verify the recent request. Review the account now to prevent a service pause. If unsure, use a known official contact channel.",1,service-pause,0,1,1
+MSG0187,email,"To avoid interruption, We could not verify the recent request. Review the account now to prevent a service pause!",1,service-pause,0,1,1
+MSG0188,email,We could not verify the recent request. Review the account now to prevent a service pause. Please do this as soon as practical …,1,service-pause,0,1,1
+MSG0189,email,We could not verify the recent request. Review the account now to prevent a service pause. This notice was generated automatically.,1,service-pause,0,1,1
+MSG0190,email,Please note — We could not verify the recent request. Review the account now to prevent a service pause. You can review it during normal business hours.,1,service-pause,0,1,1
+MSG0191,email,"We could not verify the recent request. Review the account now to prevent a service pause. If unsure, use a known official contact channel!",1,service-pause,0,1,1
+MSG0192,email,We could not verify the recent request. Review the account now to prevent a service pause …,1,service-pause,0,1,1
+MSG0193,email,A service update: We could not verify the recent request. Review the account now to prevent a service pause. Please do this as soon as practical.,1,service-pause,0,1,1
+MSG0195,email,We could not verify the recent request. Review the account now to prevent a service pause. You can review it during normal business hours!,1,service-pause,0,1,1
+MSG0196,email,"Act soon: We could not verify the recent request. Review the account now to prevent a service pause. If unsure, use a known official contact channel …",1,service-pause,0,1,1
+MSG0198,email,We could not verify the recent request. Review the account now to prevent a service pause. Please do this as soon as practical.,1,service-pause,0,1,1
+MSG0199,email,Quick notice: We could not verify the recent request. Review the account now to prevent a service pause. This notice was generated automatically!,1,service-pause,0,1,1
+MSG0200,email,We could not verify the recent request. Review the account now to prevent a service pause. You can review it during normal business hours …,1,service-pause,0,1,1
+MSG0261,email,For your information: Payroll closes Friday. Please review your payslip in the usual HR portal; no reply is required. Please do this as soon as practical.,0,payroll-reminder,0,0,0
+MSG0262,email,Payroll closes Friday. Please review your payslip in the usual HR portal; no reply is required. This notice was generated automatically.,0,payroll-reminder,0,1,1
+MSG0263,email,Payroll closes Friday. Please review your payslip in the usual HR portal; no reply is required. You can review it during normal business hours!,0,payroll-reminder,0,1,1
+MSG0264,email,"Please note: Payroll closes Friday. Please review your payslip in the usual HR portal; no reply is required. If unsure, use a known official contact channel …",0,payroll-reminder,0,0,1
+MSG0265,email,Payroll closes Friday. Please review your payslip in the usual HR portal; no reply is required.,0,payroll-reminder,0,1,1
+MSG0266,email,Payroll closes Friday. Please review your payslip in the usual HR portal; no reply is required. Please do this as soon as practical.,0,payroll-reminder,0,1,1
+MSG0267,email,Just a reminder: Payroll closes Friday. Please review your payslip in the usual HR portal; no reply is required. This notice was generated automatically!,0,payroll-reminder,0,0,0
+MSG0268,email,Payroll closes Friday. Please review your payslip in the usual HR portal; no reply is required. You can review it during normal business hours … The message mentions password reset for awareness; never share credentials.,0,payroll-reminder,0,0,0
+MSG0269,email,"Payroll closes Friday. Please review your payslip in the usual HR portal; no reply is required. If unsure, use a known official contact channel.",0,payroll-reminder,0,1,1
+MSG0270,email,"Hello, Payroll closes Friday. Please review your payslip in the usual HR portal; no reply is required.",0,payroll-reminder,0,0,0
+MSG0271,email,Payroll closes Friday. Please review your payslip in the usual HR portal; no reply is required. Please do this as soon as practical!,0,payroll-reminder,0,1,1
+MSG0272,email,Payroll closes Friday. Please review your payslip in the usual HR portal; no reply is required. This notice was generated automatically …,0,payroll-reminder,0,1,1
+MSG0273,email,Scheduled notice: Payroll closes Friday. Please review your payslip in the usual HR portal; no reply is required. You can review it during normal business hours.,0,payroll-reminder,0,0,0
+MSG0275,email,Payroll closes Friday. Please review your payslip in the usual HR portal; no reply is required!,0,payroll-reminder,0,1,1
+MSG0276,email,Reminder: Payroll closes Friday. Please review your payslip in the usual HR portal; no reply is required. Please do this as soon as practical … The message mentions password reset for awareness; never share credentials.,0,payroll-reminder,0,0,0
+MSG0278,email,Payroll closes Friday. Please review your payslip in the usual HR portal; no reply is required. You can review it during normal business hours.,0,payroll-reminder,0,1,1
+MSG0279,email,"Team update: Payroll closes Friday. Please review your payslip in the usual HR portal; no reply is required. If unsure, use a known official contact channel!",0,payroll-reminder,0,0,0
+MSG0280,email,Payroll closes Friday. Please review your payslip in the usual HR portal; no reply is required …,0,payroll-reminder,0,1,1
+MSG0321,email,"Please note: Your subscription renews next month. Manage preferences in the official app if you need to make changes. If unsure, use a known official contact channel.",0,renewal-info,0,0,0
+MSG0322,email,Your subscription renews next month. Manage preferences in the official app if you need to make changes.,0,renewal-info,0,0,0
+MSG0323,email,Your subscription renews next month. Manage preferences in the official app if you need to make changes. Please do this as soon as practical!,0,renewal-info,0,0,0
+MSG0324,email,Just a reminder: Your subscription renews next month. Manage preferences in the official app if you need to make changes. This notice was generated automatically …,0,renewal-info,0,0,0
+MSG0325,email,Your subscription renews next month. Manage preferences in the official app if you need to make changes. You can review it during normal business hours.,0,renewal-info,0,0,0
+MSG0326,email,"Your subscription renews next month. Manage preferences in the official app if you need to make changes. If unsure, use a known official contact channel.",0,renewal-info,0,0,0
+MSG0327,email,"Hello, Your subscription renews next month. Manage preferences in the official app if you need to make changes!",0,renewal-info,0,0,0
+MSG0328,email,Your subscription renews next month. Manage preferences in the official app if you need to make changes. Please do this as soon as practical … The message mentions password reset for awareness; never share credentials.,0,renewal-info,0,0,0
+MSG0329,email,Your subscription renews next month. Manage preferences in the official app if you need to make changes. This notice was generated automatically.,0,renewal-info,0,0,0
+MSG0330,email,Scheduled notice: Your subscription renews next month. Manage preferences in the official app if you need to make changes. You can review it during normal business hours.,0,renewal-info,0,0,0
+MSG0331,email,"Your subscription renews next month. Manage preferences in the official app if you need to make changes. If unsure, use a known official contact channel!",0,renewal-info,0,0,0
+MSG0332,email,Your subscription renews next month. Manage preferences in the official app if you need to make changes …,0,renewal-info,0,0,0
+MSG0333,email,Reminder: Your subscription renews next month. Manage preferences in the official app if you need to make changes. Please do this as soon as practical.,0,renewal-info,0,0,0
+MSG0335,email,Your subscription renews next month. Manage preferences in the official app if you need to make changes. You can review it during normal business hours!,0,renewal-info,0,0,0
+MSG0336,email,"Team update: Your subscription renews next month. Manage preferences in the official app if you need to make changes. If unsure, use a known official contact channel … The message mentions password reset for awareness; never share credentials.",0,renewal-info,0,0,0
+MSG0338,email,Your subscription renews next month. Manage preferences in the official app if you need to make changes. Please do this as soon as practical.,0,renewal-info,0,0,0
+MSG0339,email,Update: Your subscription renews next month. Manage preferences in the official app if you need to make changes. This notice was generated automatically!,0,renewal-info,0,0,0
+MSG0340,email,Your subscription renews next month. Manage preferences in the official app if you need to make changes. You can review it during normal business hours …,0,renewal-info,0,0,0
+MSG0361,sms,Update: A payment receipt is available in your bank app. Contact the bank through the number on your card if you need help. Please do this as soon as practical.,0,receipt-info,0,0,0
+MSG0362,sms,A payment receipt is available in your bank app. Contact the bank through the number on your card if you need help. This notice was generated automatically.,0,receipt-info,0,0,0
+MSG0363,sms,A payment receipt is available in your bank app. Contact the bank through the number on your card if you need help. You can review it during normal business hours!,0,receipt-info,0,0,0
+MSG0364,sms,"For your information: A payment receipt is available in your bank app. Contact the bank through the number on your card if you need help. If unsure, use a known official contact channel …",0,receipt-info,0,0,0
+MSG0365,sms,A payment receipt is available in your bank app. Contact the bank through the number on your card if you need help.,0,receipt-info,0,0,0
+MSG0366,sms,A payment receipt is available in your bank app. Contact the bank through the number on your card if you need help. Please do this as soon as practical.,0,receipt-info,0,0,0
+MSG0367,sms,Please note: A payment receipt is available in your bank app. Contact the bank through the number on your card if you need help. This notice was generated automatically!,0,receipt-info,0,0,0
+MSG0368,sms,A payment receipt is available in your bank app. Contact the bank through the number on your card if you need help. You can review it during normal business hours … The message mentions password reset for awareness; never share credentials.,0,receipt-info,0,0,0
+MSG0369,sms,"A payment receipt is available in your bank app. Contact the bank through the number on your card if you need help. If unsure, use a known official contact channel.",0,receipt-info,0,0,0
+MSG0370,sms,Just a reminder: A payment receipt is available in your bank app. Contact the bank through the number on your card if you need help.,0,receipt-info,0,0,0
+MSG0371,sms,A payment receipt is available in your bank app. Contact the bank through the number on your card if you need help. Please do this as soon as practical!,0,receipt-info,0,0,0
+MSG0372,sms,A payment receipt is available in your bank app. Contact the bank through the number on your card if you need help. This notice was generated automatically …,0,receipt-info,0,0,0
+MSG0373,sms,"Hello, A payment receipt is available in your bank app. Contact the bank through the number on your card if you need help. You can review it during normal business hours.",0,receipt-info,0,0,0
+MSG0375,sms,A payment receipt is available in your bank app. Contact the bank through the number on your card if you need help!,0,receipt-info,0,0,0
+MSG0376,sms,Scheduled notice: A payment receipt is available in your bank app. Contact the bank through the number on your card if you need help. Please do this as soon as practical … The message mentions password reset for awareness; never share credentials.,0,receipt-info,0,0,0
+MSG0378,sms,A payment receipt is available in your bank app. Contact the bank through the number on your card if you need help. You can review it during normal business hours.,0,receipt-info,0,0,0
+MSG0379,sms,"Reminder: A payment receipt is available in your bank app. Contact the bank through the number on your card if you need help. If unsure, use a known official contact channel!",0,receipt-info,0,0,0
+MSG0380,sms,A payment receipt is available in your bank app. Contact the bank through the number on your card if you need help …,0,receipt-info,0,0,0
+MSG0421,sms,"For your information: Your library book is due next week. Renew it from the library website if needed. If unsure, use a known official contact channel.",0,book-reminder,0,0,0
+MSG0422,sms,Your library book is due next week. Renew it from the library website if needed.,0,book-reminder,0,0,0
+MSG0423,sms,Your library book is due next week. Renew it from the library website if needed. Please do this as soon as practical!,0,book-reminder,0,0,0
+MSG0424,sms,Please note: Your library book is due next week. Renew it from the library website if needed. This notice was generated automatically …,0,book-reminder,0,0,0
+MSG0425,sms,Your library book is due next week. Renew it from the library website if needed. You can review it during normal business hours.,0,book-reminder,0,0,1
+MSG0426,sms,"Your library book is due next week. Renew it from the library website if needed. If unsure, use a known official contact channel.",0,book-reminder,0,0,0
+MSG0427,sms,Just a reminder: Your library book is due next week. Renew it from the library website if needed!,0,book-reminder,0,0,0
+MSG0428,sms,Your library book is due next week. Renew it from the library website if needed. Please do this as soon as practical … The message mentions password reset for awareness; never share credentials.,0,book-reminder,0,0,0
+MSG0429,sms,Your library book is due next week. Renew it from the library website if needed. This notice was generated automatically.,0,book-reminder,0,0,0
+MSG0430,sms,"Hello, Your library book is due next week. Renew it from the library website if needed. You can review it during normal business hours.",0,book-reminder,0,0,0
+MSG0431,sms,"Your library book is due next week. Renew it from the library website if needed. If unsure, use a known official contact channel!",0,book-reminder,0,0,0
+MSG0432,sms,Your library book is due next week. Renew it from the library website if needed …,0,book-reminder,0,0,0
+MSG0433,sms,Scheduled notice: Your library book is due next week. Renew it from the library website if needed. Please do this as soon as practical.,0,book-reminder,0,0,0
+MSG0435,sms,Your library book is due next week. Renew it from the library website if needed. You can review it during normal business hours!,0,book-reminder,0,0,1
+MSG0436,sms,"Reminder: Your library book is due next week. Renew it from the library website if needed. If unsure, use a known official contact channel … The message mentions password reset for awareness; never share credentials.",0,book-reminder,0,0,0
+MSG0438,sms,Your library book is due next week. Renew it from the library website if needed. Please do this as soon as practical.,0,book-reminder,0,0,0
+MSG0439,sms,Team update: Your library book is due next week. Renew it from the library website if needed. This notice was generated automatically!,0,book-reminder,0,0,0
+MSG0440,sms,Your library book is due next week. Renew it from the library website if needed. You can review it during normal business hours …,0,book-reminder,0,0,1
